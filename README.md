@@ -11,7 +11,7 @@
 Características Principales:
 🌍 Variedad de Orígenes: Descubre cafés provenientes de distintas regiones como Colombia, Etiopía, Guatemala y más, cada uno con su perfil de sabor único y distintivo.
 
-🌟 Calidad Superior: Nos comprometemos a ofrecerte café de la más alta calidad, cultivado de manera sostenible y ética para garantizar una experiencia excepcional en cada taza.
+🌟 Calidad Superior: Nos comprometemos a ofrecerte café arábico de especialidad de la más alta calidad, cultivado de manera sostenible y ética para garantizar una experiencia excepcional en cada taza.
 
 💻 E-commerce Fácil de Usar: Utilizamos Bubble como plataforma de e-commerce, lo que nos permite ofrecerte una experiencia de compra fluida y segura, con opciones de pago flexibles y un proceso de pedido intuitivo.
 
