@@ -6,7 +6,7 @@
 - UX/UI: Melisa
 - PM: Doliana
 # Descripcion: 
-- Ecommerce Cafe de Origen
+- Café de Origen - E-commerce
 # Herramientas: 
 - Bubble
 - Figma
