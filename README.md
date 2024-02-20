@@ -5,5 +5,8 @@
 - Testing: Ana Laura
 - UX/UI: Melisa
 - PM: Doliana
-# Descripcion: Cafe de Origen 
-- Ecommerce
+# Descripcion: 
+- Ecommerce Cafe de Origen
+# Herramientas: 
+- Bubble
+- Figma
