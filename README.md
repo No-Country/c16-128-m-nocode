@@ -6,7 +6,7 @@
 - UX/UI: Melisa
 - PM: Doliana
 # Descripcion: 
-- Café de Origen - E-commerce
+- En este proyecto daremos vida a Café de Origen: Un e-commerce destinado a los amantes del café de especialidad de primera calidad. Nuestro objetivo será el de ofrecer una interfaz atractiva y dinámica
 # Herramientas: 
 - Bubble
 - Figma
